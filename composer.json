@@ -1,0 +1,10 @@
+{
+    "name": "app/fun",
+    "authors": [
+        {
+            "name": "Append",
+            "email": "appendtrue@gmail.com"
+        }
+    ],
+    "require": {}
+}
